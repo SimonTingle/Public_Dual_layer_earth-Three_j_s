@@ -33,3 +33,4 @@ Usage
 	3.	Enter coordinates in the search bar to jump to a location.
 	4.	Zoom in/out to transition between orbital and map views seamlessly.
 
+![Localhost Screenshot](screenshot.png)
